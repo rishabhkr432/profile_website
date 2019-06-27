@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a52edbe9-4bac-4607-8447-c5d2c6a26923" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d71dcbbf-2916-4d51-9c08-8bc4d7d0e84e.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d71dcbbf-2916-4d51-9c08-8bc4d7d0e84e/storage_v2/_src_/database/profiledb.588SxA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d71dcbbf-2916-4d51-9c08-8bc4d7d0e84e/storage_v2/_src_/database/profiledb.588SxA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d71dcbbf-2916-4d51-9c08-8bc4d7d0e84e/storage_v2/_src_/database/profiledb.588SxA/schema/information_schema.FNRwLQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d71dcbbf-2916-4d51-9c08-8bc4d7d0e84e/storage_v2/_src_/database/profiledb.588SxA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d71dcbbf-2916-4d51-9c08-8bc4d7d0e84e/storage_v2/_src_/database/profiledb.588SxA/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d71dcbbf-2916-4d51-9c08-8bc4d7d0e84e/storage_v2/_src_/database/profiledb.588SxA/schema/pg_temp_1.zkWuFg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d71dcbbf-2916-4d51-9c08-8bc4d7d0e84e/storage_v2/_src_/database/profiledb.588SxA/schema/pg_toast.33HYYw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d71dcbbf-2916-4d51-9c08-8bc4d7d0e84e/storage_v2/_src_/database/profiledb.588SxA/schema/pg_toast_temp_1.5ixBaA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d71dcbbf-2916-4d51-9c08-8bc4d7d0e84e/storage_v2/_src_/database/profiledb.588SxA/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/0003_auto_20190626_0132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/allblogs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs/templates/jobstemp/images/Profile-pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs/templates/jobstemp/images/bankruptcy-john.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs/templates/jobstemp/images/ftm-site.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs/templates/jobstemp/images/hunter-cole-portfolio-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs/templates/jobstemp/images/profile-pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs/templates/jobstemp/images/sykora-kitchens.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs/templates/jobstemp/scripts/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs/templates/jobstemp/styles/animations.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobs/templates/jobstemp/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/static_files/profile_pic.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/static_files/test_resume.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/templates/jobstemp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/templates/jobstemp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project2/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project2/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jobs/templates/jobstemp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="68" column="40" lean-forward="true" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+            <state relative-caret-position="306">
+              <caret line="75" column="39" lean-forward="true" selection-start-line="75" selection-start-column="39" selection-end-line="75" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -158,9 +125,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="979" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="981" />
+    <option name="y" value="26" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -320,12 +288,12 @@
       <workItem from="1561489565472" duration="2015000" />
       <workItem from="1561504767566" duration="6519000" />
       <workItem from="1561575649170" duration="312000" />
-      <workItem from="1561576148809" duration="3914000" />
+      <workItem from="1561576148809" duration="4806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43316000" />
+    <option name="totallyTimeSpent" value="44208000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,7 +306,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17091152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -637,8 +604,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jobs/templates/jobstemp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="68" column="40" lean-forward="true" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+        <state relative-caret-position="306">
+          <caret line="75" column="39" lean-forward="true" selection-start-line="75" selection-start-column="39" selection-end-line="75" selection-end-column="39" />
         </state>
       </provider>
     </entry>
