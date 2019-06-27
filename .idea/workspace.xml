@@ -49,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project2/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="87" column="1" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+            <state relative-caret-position="269">
+              <caret line="133" column="9" lean-forward="true" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -138,8 +138,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="981" />
-    <option name="y" value="26" />
+    <option name="x" value="722" />
+    <option name="y" value="36" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -280,12 +280,12 @@
       <workItem from="1561504767566" duration="6519000" />
       <workItem from="1561575649170" duration="312000" />
       <workItem from="1561576148809" duration="4806000" />
-      <workItem from="1561605293988" duration="1695000" />
+      <workItem from="1561605293988" duration="2487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45903000" />
+    <option name="totallyTimeSpent" value="46695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +297,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="785" y="21" width="784" height="832" extended-state="0" />
+    <frame x="578" y="29" width="784" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11983471" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -599,8 +600,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="87" column="1" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+        <state relative-caret-position="269">
+          <caret line="133" column="9" lean-forward="true" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
         </state>
       </provider>
     </entry>
