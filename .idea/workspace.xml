@@ -49,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project2/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="133" column="9" lean-forward="true" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
+            <state relative-caret-position="167">
+              <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
             </state>
           </provider>
         </entry>
@@ -138,7 +138,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="722" />
+    <option name="x" value="432" />
     <option name="y" value="36" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -154,6 +154,11 @@
           <expand>
             <path>
               <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2" type="462c0819:PsiDirectoryNode" />
               <item name="project2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -280,12 +285,12 @@
       <workItem from="1561504767566" duration="6519000" />
       <workItem from="1561575649170" duration="312000" />
       <workItem from="1561576148809" duration="4806000" />
-      <workItem from="1561605293988" duration="2487000" />
+      <workItem from="1561605293988" duration="5084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46695000" />
+    <option name="totallyTimeSpent" value="49292000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,10 +302,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="578" y="29" width="784" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="346" y="29" width="784" height="832" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11983471" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2506887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,7 +317,7 @@
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49930844" visible="true" weight="0.33380884" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49930844" visible="true" weight="0.33380884" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5006916" side_tool="true" weight="0.33333334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -600,8 +604,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="133" column="9" lean-forward="true" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
+        <state relative-caret-position="167">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
         </state>
       </provider>
     </entry>
