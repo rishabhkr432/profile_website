@@ -34,7 +34,6 @@
     </style>
     <!-- Custom styles for this template -->
         <link rel="stylesheet" href="{% static 'css/styles.css' %}">
-        <link rel="stylesheet" href="{% static 'css/animations.css' %}">
 
 </head>
 <body>
@@ -50,7 +49,7 @@
             <div class="navbar-nav ml-auto">
                 <a class="nav-item nav-link " href="https://twitter.com/rishabh_kr432">Twitter</a>
                 <a class="nav-item nav-link" href="{% static 'test_resume.doc' %}">Resume</a>
-                <a class="nav-item nav-link" href="{% url 'allblogs' %}">Blog</a>
+                <a class="nav-item nav-link active" href="{% url 'allblogs' %}">Blog</a>
 
             </div>
         </div>
@@ -58,60 +57,18 @@
 </header>
 
 <main role="main">
-
-    <section class="jumbotron text-center">
-        <div class="container">
-            {#             <div class="row">#}
-            {#				<div class="small-12 large-8 large-offset-2 columns text-center">#}
-            {#					<img class="img-circle" src="images/Profile-pic.png" alt="headshot">#}
-            {#					<div class="details">#}
-            {#						<h2>Hi, I'm Rishabh. I...<br> <span id="writing-text"></span></h2>#}
-            {#					</div>#}
-            {#				</div>#}
-            {#			</div>#}
-            <h1 class="jumbotron-heading">Rishabh Kumar</h1>
-{#            <p class="lead text-muted">Hi, I'm Rishabh. I...<br> <span id="writing-text"></span></p>#}
-{#                        <span class="typed-cursor">|</span>#}
-{#					<span id="writing-text" style="color: rgb(255, 255, 255); background-color: rgb(200, 65, 43);">am also a Tech Enthusiast.</span>#}
-            <p class="lead text-muted">Hi there, I am Computer Science Student XD.</p>
-            <p>
-                <a href="mailto:rishabh.kr432@gmail.com" class="btn btn-primary my-2">Email me</a>
-                <a href="tel:00447527951274" class="btn btn-secondary my-2">Message me</a>
-            </p>
-            <style>
-{#                .img-rotate90 {#}
-{##}
-{#                    transform: rotate(90deg);#}
-{#                }#}
-                .profile_pad{
-                    position: relative;
-                    top: 20px;
-                }</style>
-            <img class="img-rotate90 profile_pad" src="{% static 'profile_pic.JPG' %}" height="150"/>
-        </div>
-    </section>
-
-    <div class="album py-5 bg-light">
-        <div class="container">
-
-            <div class="row">
-                {% for job in jobs.all %}
+    <div class="container">
+        <h1 class="text-center pt-3">{{ blog.title }}</h1>
+        <br/>
+        {{ blog.date_time }}
+        <br/>
+        <img class="img-fluid" src="{{ blog.image.url }}"/>
+        <br/>
 
 
-                    <div class="col-md-4">
+        <p>{{ blog.body }}</p>
 
-                        <div class="card mb-4 shadow-sm">
-                            <img class="card-img-top" src="{{ job.image.url }}"/>
-                            <div class="card-body">
-                                <p class="card-text">{{ job.bio }}</p>
-                            </div>
-                        </div>
-                    </div>
-                {% endfor %}
-            </div>
-        </div>
     </div>
-
 </main>
 
 <footer class="text-muted">
