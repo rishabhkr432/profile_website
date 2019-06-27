@@ -46,16 +46,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project2/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="83" column="30" lean-forward="true" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="30" />
+            <state relative-caret-position="255">
+              <caret line="87" column="1" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -129,11 +129,11 @@
         <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/views.py" />
-        <option value="$PROJECT_DIR$/project2/settings.py" />
         <option value="$PROJECT_DIR$/project2/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/allblogs.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/info.html" />
         <option value="$PROJECT_DIR$/jobs/templates/jobstemp/index.html" />
+        <option value="$PROJECT_DIR$/project2/settings.py" />
       </list>
     </option>
   </component>
@@ -280,12 +280,12 @@
       <workItem from="1561504767566" duration="6519000" />
       <workItem from="1561575649170" duration="312000" />
       <workItem from="1561576148809" duration="4806000" />
-      <workItem from="1561605293988" duration="524000" />
+      <workItem from="1561605293988" duration="1695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44732000" />
+    <option name="totallyTimeSpent" value="45903000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,9 +298,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="785" y="21" width="784" height="832" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3553719" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11983471" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,7 +312,7 @@
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32956153" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49930844" visible="true" weight="0.33380884" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49930844" visible="true" weight="0.33380884" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5006916" side_tool="true" weight="0.33333334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -595,15 +594,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project2/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="83" column="30" lean-forward="true" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="87" column="1" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
