@@ -1,1 +1,1 @@
-web: gunicorn project2.wsgi
+web: gunicorn DjangoProj2.wsgi

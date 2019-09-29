@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/2.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.1/ref/settings/
 """
-
+import django_heroku
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -24,7 +24,7 @@ SECRET_KEY = '0m+w1_cupc48mkl@5we)r(a@4nthv2hzp9uav6tuu64wup&d!z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['web-profile-django.herokuapp.com']
 
 # Application definition
 
@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'profiledb',
         'USER': 'postgres',
-        'PASSWORD': 'Rishabh11',
+        'PASSWORD': 'Rishabh11@',
         'HOST': 'localhost',
         'PORT': '5432',
     }
@@ -129,7 +129,8 @@ STATIC_URL = '/static_files/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # media_url can be changed accordingly
 MEDIA_URL = '/media/'
-
+# Activate Django-Heroku.
+django_heroku.settings(locals())
 try:
     from .local_settings import *
 except ImportError:
